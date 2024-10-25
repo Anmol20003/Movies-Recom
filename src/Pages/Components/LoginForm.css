@@ -1,0 +1,115 @@
+/* LoginForm.css */
+
+/* Styles for the .cover container */
+.cover {
+    background-color: #f0f0f0;
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin: 0 auto;
+}
+
+.cover h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.cover input[type="text"],
+.cover input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.login-btn {
+    background-color: #0074cc;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.hide{
+    display: none;
+}
+.login-btn:hover {
+    background-color: #3c0419;
+}
+
+.text {
+    margin-top: 20px;
+}
+
+/* Styles for the alternative login icons */
+.alt-login {
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.google {
+    width: 50px;
+    height: 50px;
+    background-color: aquamarine;
+}
+
+.logger{
+    width: 100%;
+    height: 100%;
+    background-image: url('../icons/google.png');
+}
+/* Hover animation for .google and .logger elements */
+.google:hover,
+.logger:hover {
+    transform: scale(1.05); /* Scale the element on hover */
+    transition: transform 0.3s ease; /* Add a smooth transition */
+}
+
+/* Styles for the popup message */
+/* Updated .login-popup styles */
+.login-popup {
+    position: fixed; /* Change from relative to fixed */
+    top: 0%; /* Center vertically */
+    left: 30%; /* Center horizontally */
+    transform: translate(9%, 5%); /* Center the popup */
+    z-index: 1000; /* Ensure it appears on top of other elements */
+    height: 80px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.25em;
+    background-color: rgb(118, 5, 33);
+    color: white;
+    transition: 0.5s;
+}
+
+.login-popup.show {
+    display: block;
+}
+
+@media only screen and (max-width: 480px) {
+    .page {
+        font-size: 1em;
+    }
+
+    .cover {
+        width: 60%;
+        height: 70%;
+    }
+
+    .login-popup{
+        transform: translate(-20%, 0%); /* Center the popup */
+        z-index: 1000; /* Ensure it appears on top of other elements */
+        height: 70px;
+        width: 300px;
+
+    }
+}
