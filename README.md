@@ -1,4 +1,4 @@
-Movie Recommender Application 🎥🍿
+**Movie Recommender Application 🎥🍿**
 
 An intelligent and user-friendly Movie Recommender Application built with React for the frontend and Python, Node.Js for the backend. This application suggests movies based on user preferences, providing a personalized movie-watching experience.
 
