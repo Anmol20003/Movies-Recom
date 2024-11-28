@@ -33,7 +33,7 @@ Prerequisites: Node.js and npm installed on your system.
 
 Steps:
 
-1. Clone the repository: git clone https://github.com/Anmol20003/Movies-Recom.git
+1. Clone the repository: git clone https://github.com/Anmol20003/Movies-Recommender-Application.git
 2. Navigate to the project directory: cd weather-forecasting-app
 3. Install dependencies: npm install
 4. Start the development server: npm start
