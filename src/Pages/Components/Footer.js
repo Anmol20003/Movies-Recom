@@ -7,21 +7,21 @@ const Footer = () => {
             <div className="footer">
                 <div id="row1" className="row ">
                     <a
-                        href="https://www.linkedin.com/in/nagendra-kumar-a43538251/"
+                        href="https://www.linkedin.com/in/anmol2907/"
                         target="_blank"
                         rel="noreferrer"
                     >
                         <i className="fa fa-linkedin"></i>
                     </a>
                     <a
-                        href="https://github.com/Nagendraindus/"
+                        href="https://github.com/Anmol20003/"
                         target="_blank"
                         rel="noreferrer"
                     >
                         <i className="fa-brands fa-github"></i>
                     </a>
                     <a
-                        href="https://www.instagram.com/_mk_varshney/"
+                        href="https://www.instagram.com/_anmol__04/"
                         target="_blank"
                         rel="noreferrer"
                     >
@@ -29,7 +29,7 @@ const Footer = () => {
                     </a>
                 </div>
                 <div id="row1" className="row">
-                    © Developed with ❤️ By FrontDive
+                    © Developed with ❤️ By Anmol 
                 </div>
             </div>
         </footer>
