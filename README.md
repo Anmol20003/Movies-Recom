@@ -41,6 +41,35 @@ Steps:
 
 Screenshots 🖼️
 
+1. Login
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/8f96db7f-57c7-47d0-b88d-10eb6a31941b">
+
+2. Home Page
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/7d26f78d-3f29-4d83-9591-ce966fb74bb8">
+
+3. Genres
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/868b762a-6c9f-45e3-b35f-ff793eb63355">
+
+4. Action Genre Recommended Movies
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/10fd4867-5ec4-43f3-a00b-122301f354fb">
+
+5. Animation + Comedy Genre Recommended Movies
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/0b8954c9-86d9-43ee-ae1e-63a2997b171f">
+
+6. Drama + Mystery + Thriller Genre Recommended Movies
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/015b8e1d-7386-4237-95d7-b72f1a980f6a">
+
+7. Drop Down list of Related Content
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/97b171c7-3944-4412-86aa-6f191808a410">
+
+8. Movie Page 
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/ebcbeb2c-b209-49c2-893f-d69ffbf484ae">
+
+
+
+
+
+
 
 
 
